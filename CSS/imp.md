@@ -8,3 +8,11 @@
 ## 4) Dynamic CSS = https://fmasters--dynamic-css.netlify.app/#intro
 
 ## 5) CSS Grid and Flexbox, v2 :-  https://frontendmasters.github.io/grid-flexbox-v2/
+
+## 6) https://getwaves.io/
+
+## 7) Neumorphism :-  https://neumorphism.io/#ed7e7e
+
+## 8) https://www.blobmaker.app/
+
+## 9) 
