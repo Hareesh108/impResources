@@ -1,3 +1,7 @@
+# Docs:
+1) https://developer.mozilla.org/en-US/docs/Web/CSS
+2) https://www.w3schools.com/css/default.asp
+
 
 ## 1) https://www.superlist.com/
 
