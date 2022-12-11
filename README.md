@@ -13,3 +13,7 @@
 1) https://buffer.com/
 
 2) https://bubble.io/
+
+## New Designs
+
+1) https://dribbble.com/
