@@ -20,3 +20,5 @@
 ## 8) https://www.blobmaker.app/
 
 ## 9) https://colorhunt.co/
+
+## 10) CSS Triggers : https://csstriggers.com/
