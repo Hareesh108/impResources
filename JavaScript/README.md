@@ -16,4 +16,6 @@ https://observablehq.com/@anjana/solutions-filter-map-reduce
 
 ## 7) GFG : DOM : https://www.geeksforgeeks.org/html-dom-complete-reference/?ref=lbp
 
+## 8) Book : https://eloquentjavascript.net/
+
 
