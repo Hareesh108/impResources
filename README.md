@@ -1,7 +1,5 @@
 # impResources
 
-## Git Hub Token : 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
-
 ## Online IDE : https://stackblitz.com/
 
 ## Upload Images and use :
