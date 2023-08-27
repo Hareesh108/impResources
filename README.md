@@ -1,6 +1,6 @@
 # impResources
 
-## Git Hub Token : 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
+## Here, i have added important resource.
 
 ## Online IDE : https://stackblitz.com/
 
